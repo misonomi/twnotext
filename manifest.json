@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Twitter No Text",
+  "version": "1.0",
+
+  "description": "Removes all tweet's texts from your twitter home",
+
+  "icons": {
+    "48": "icons/48.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://twitter.com/home"],
+      "js": ["notext.js"],
+      "css": ["notext.css"]
+    }
+  ]
+}
