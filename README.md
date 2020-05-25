@@ -24,5 +24,5 @@ This extension will be a great solution to see artworks on twitter without any s
 Get it from https://addons.mozilla.org/en-US/firefox/addon/twitter-no-text/
 
 
-## If you have feature requests or you found bug
+## If you have feature requests or you found bugs
 Open issue, or reach me in twitter @miso_nomi

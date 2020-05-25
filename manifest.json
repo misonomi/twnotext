@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
   "name": "Twitter No Text",
-  "version": "1.1",
+  "version": "1.2",
 
-  "description": "Removes all tweet's texts from your twitter home",
+  "description": "Removes all tweet's texts from your twitter",
 
   "icons": {
     "32": "icons/32.png",
