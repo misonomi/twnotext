@@ -1,5 +1,6 @@
 body {
     padding: 1em;
+    width: 16em;
 }
 
 .title {
@@ -8,6 +9,10 @@ body {
     grid-template-rows: 32px 1fr ;
     justify-items: center;
     align-items: center;
+}
+
+hr {
+    width: 100%;
 }
 
 .title > .icon {
