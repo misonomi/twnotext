@@ -1,4 +1,4 @@
-# Twitter No Text firefox extension
+# Twitter No Text browser extension
 
 The goal for this extension is to free people from the curse of SNS.
 
@@ -21,8 +21,8 @@ This extension will be a great solution to see artworks on twitter without any s
 
 
 ## Install
-Get it from https://addons.mozilla.org/en-US/firefox/addon/twitter-no-text/
-
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/twitter-no-text/
+Chrome: https://chrome.google.com/webstore/detail/twitter-no-text/akmdakmpooindelmbdppneijlchbifcc
 
 ## If you have feature requests or you found bugs
 Open issue, or reach me in twitter @miso_nomi
